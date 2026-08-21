@@ -7,6 +7,13 @@ VLSI, computer architecture, and hardware security.
 
 I enjoy building and verifying hardware systems at the RTL level.
 
+
+[![SecureRISC CI](https://github.com/mayursn-007/SecureRISC/actions/workflows/verilog.yml/badge.svg)](https://github.com/mayursn-007/SecureRISC/actions/workflows/verilog.yml)
+[![Release](https://img.shields.io/github/v/release/mayursn-007/SecureRISC)](https://github.com/mayursn-007/SecureRISC/releases)
+[![License](https://img.shields.io/github/license/mayursn-007/SecureRISC)](https://github.com/mayursn-007/SecureRISC/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/mayursn-007/SecureRISC)](https://github.com/mayursn-007/SecureRISC/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/mayursn-007/SecureRISC)](https://github.com/mayursn-007/SecureRISC/issues)
+
 ---
 
 ##  Featured Project
